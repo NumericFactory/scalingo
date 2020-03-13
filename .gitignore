@@ -1,0 +1,10 @@
+#config
+config
+
+# npm
+build
+node_modules
+.env
+package-lock.json
+*.log
+*.gz
