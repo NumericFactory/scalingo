@@ -16,10 +16,10 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "smarlock_prod",
-    "host": "127.0.0.1",
+    "username": "numericfactory",
+    "password": "kakak2017",
+    "database": "smartlock_4822",
+    "host": "@6e0a08db-85df-4e62-a1c0-1692e8439a43.smartlock-4822.mysql.dbs.scalingo.com:31855/smartlock_4822?useSSL=true&verifyServerCertificate=false",
     "dialect": "mysql",
     "operatorsAliases": false
   }

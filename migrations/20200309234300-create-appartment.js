@@ -16,9 +16,21 @@ module.exports = {
           key: 'id'
         }
       },
-      name: {
+      propName: {
         allowNull: false,
         type: Sequelize.STRING
+      },
+      propId: {
+        allowNull: false,
+        type: Sequelize.INTEGER
+      },
+      roomName: {
+        allowNull: false,
+        type: Sequelize.STRING
+      },
+      roomId: {
+        allowNull: false,
+        type: Sequelize.INTEGER
       },
       address: {
         allowNull: false,
