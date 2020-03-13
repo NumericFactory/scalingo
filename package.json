@@ -1,5 +1,9 @@
 {
   "name": "back",
+  "engines": {
+    "node": "12.14.0",
+    "npm": "6.13.4"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
